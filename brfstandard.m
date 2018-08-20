@@ -1,3 +1,5 @@
+%This program generates a set of best responses using equally spaced points as outlined in Section 4, page 14 of the paper. 
+
 clear;
 clc;
 options = optimset('Display','off');
