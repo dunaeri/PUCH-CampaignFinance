@@ -1,3 +1,5 @@
+%This program generates a set of best responses using randomly drawn points as outlined in Section 4, page 14 of the paper. See also footnote 17, as it pertains to the random draws.
+
 clear;
 clc;
 options = optimset('Display','off');
